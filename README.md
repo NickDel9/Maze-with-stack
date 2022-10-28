@@ -1,1 +1,1 @@
-# Maze-with-stack
+# An assignment for the data structures course 
